@@ -1,0 +1,14 @@
+D:\winApp\MultiThread\obj\Debug\net8.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\winApp\MultiThread\obj\Debug\net8.0\MultiThread.AssemblyInfoInputs.cache
+D:\winApp\MultiThread\obj\Debug\net8.0\MultiThread.AssemblyInfo.cs
+D:\winApp\MultiThread\obj\Debug\net8.0\MultiThread.csproj.CoreCompileInputs.cache
+D:\winApp\MultiThread\bin\Debug\net8.0\MultiThread.exe
+D:\winApp\MultiThread\bin\Debug\net8.0\MultiThread.deps.json
+D:\winApp\MultiThread\bin\Debug\net8.0\MultiThread.runtimeconfig.json
+D:\winApp\MultiThread\bin\Debug\net8.0\MultiThread.dll
+D:\winApp\MultiThread\bin\Debug\net8.0\MultiThread.pdb
+D:\winApp\MultiThread\obj\Debug\net8.0\MultiThread.dll
+D:\winApp\MultiThread\obj\Debug\net8.0\refint\MultiThread.dll
+D:\winApp\MultiThread\obj\Debug\net8.0\MultiThread.pdb
+D:\winApp\MultiThread\obj\Debug\net8.0\MultiThread.genruntimeconfig.cache
+D:\winApp\MultiThread\obj\Debug\net8.0\ref\MultiThread.dll

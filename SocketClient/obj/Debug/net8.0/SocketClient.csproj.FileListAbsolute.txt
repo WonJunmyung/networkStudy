@@ -1,0 +1,14 @@
+D:\winApp\SocketClient\bin\Debug\net8.0\SocketClient.exe
+D:\winApp\SocketClient\bin\Debug\net8.0\SocketClient.deps.json
+D:\winApp\SocketClient\bin\Debug\net8.0\SocketClient.runtimeconfig.json
+D:\winApp\SocketClient\bin\Debug\net8.0\SocketClient.dll
+D:\winApp\SocketClient\bin\Debug\net8.0\SocketClient.pdb
+D:\winApp\SocketClient\obj\Debug\net8.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\winApp\SocketClient\obj\Debug\net8.0\SocketClient.AssemblyInfoInputs.cache
+D:\winApp\SocketClient\obj\Debug\net8.0\SocketClient.AssemblyInfo.cs
+D:\winApp\SocketClient\obj\Debug\net8.0\SocketClient.csproj.CoreCompileInputs.cache
+D:\winApp\SocketClient\obj\Debug\net8.0\SocketClient.dll
+D:\winApp\SocketClient\obj\Debug\net8.0\refint\SocketClient.dll
+D:\winApp\SocketClient\obj\Debug\net8.0\SocketClient.pdb
+D:\winApp\SocketClient\obj\Debug\net8.0\SocketClient.genruntimeconfig.cache
+D:\winApp\SocketClient\obj\Debug\net8.0\ref\SocketClient.dll
